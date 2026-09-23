@@ -7,6 +7,8 @@ Análisis completo de inversión construido con Python y datos reales
 de Yahoo Finance. Incluye análisis fundamental, de valuación y técnico.
 
 
+Valor de acción tomado al 09/21/2026
+
 
 \---
 
